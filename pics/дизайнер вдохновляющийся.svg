@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="670.6" height="393.4" viewBox="0 0 670.6 393.4">
+  <g id="Group_26" data-name="Group 26" transform="translate(-250.5 -117.5)">
+    <g id="Group_24" data-name="Group 24" transform="translate(0 0)">
+      <g id="декор_текста_на_главной_стр" data-name="декор текста на главной стр" transform="translate(172.2 143.4)">
+        <g id="Group_4" data-name="Group 4" transform="translate(77 -19)">
+          <g id="Group_6" data-name="Group 6" transform="translate(2.8 -5.4)">
+            <line id="Line_1" data-name="Line 1" x1="190" fill="none" stroke="#707070" stroke-width="3"/>
+            <line id="Line_2" data-name="Line 2" y1="240" fill="none" stroke="#707070" stroke-width="3"/>
+          </g>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(557.4 126)">
+          <line id="Line_1-2" data-name="Line 1" x2="190" transform="translate(0 240)" fill="none" stroke="#707070" stroke-width="3"/>
+          <line id="Line_2-2" data-name="Line 2" y2="240" transform="translate(190)" fill="none" stroke="#707070" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_25" data-name="Group 25" transform="translate(0 -7)">
+      <g id="Group_23" data-name="Group 23" transform="translate(11 37.5)">
+        <g id="текст_на_гл_стр" data-name="текст на гл стр" transform="translate(328 96)">
+          <text id="Креативные_дизайн-решения_в_соответствии_с_Вашими_запросами" data-name="Креативные дизайн-решенияв соответствии с Вашими запросами" transform="translate(75 294)" fill="#e1a957" font-size="20" font-family="Lato-Regular, Lato"><tspan x="36.053" y="16">Креативные дизайн-решения</tspan><tspan x="2.869" y="44">в соответствии с Вашими запросами</tspan></text>
+        </g>
+      </g>
+      <g id="Group_22" data-name="Group 22" transform="translate(10.333 22.5)">
+        <text id="Дизайнер_" data-name="Дизайнер, " transform="translate(363.667 130.5)" fill="#e1a957" font-size="80" font-family="AllurTYGRA, Allur TYGRA"><tspan x="40.32" y="124">Дизайнер, </tspan></text>
+        <text id="вдохновляющийся" transform="translate(476.667 338.5)" fill="#e1a957" font-size="38" font-family="AllurTYGRA, Allur TYGRA"><tspan x="-144.571" y="0">вдохновляющийся</tspan></text>
+        <text id="Вами_" data-name="Вами!" transform="translate(728.667 349.5)" fill="#fff" font-size="70" font-family="AllurTYGRA, Allur TYGRA"><tspan x="-90.265" y="0">Вами!</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

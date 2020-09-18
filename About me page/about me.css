@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Allur TUGRA';
+    src: url('../fonts/Allur TUGRA.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LatoRegular';
+    src: url('../fonts/LatoRegular.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'alinka malinka';
+    src: url('./fonts/alinka malinka.otf');
+}
+
+.test {
+    border: 2px solid red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'alinka malinka';
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body,
+html {
+    overflow-x: hidden;
+    max-width: 100vw;
+    width: 100vw;
+}
+
+section {
+    background: url(../backgrounds/not\ light.svg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #E0A651;
+}
+
+.menu {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #E0A651;
+    position: fixed;
+    list-style: none;
+}
+
+.menu-row {
+    height: 10vh;
+}
+
+.section-header {
+    width: 50%;
+    height: 10vh;
+    font-size: 36px;
+    font-family: 'Allur TUGRA';
+    color: #FFFFFF;
+}
+
+.text-about-me {
+    height: 30vh;
+}
+
+.line {
+    height: 10vh;
+}
+
+span {
+    color: #FFFFFF;
+}
+
+@media (max-width: 768px) {
+    section {
+        font-size: 18px;
+    }
+
+    .section-header {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 500px) {
+    section {
+        font-size: 16px;
+    }
+
+    .section-header {
+        font-size: 24px;
+    }
+}
